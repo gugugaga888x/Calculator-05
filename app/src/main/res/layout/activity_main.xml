@@ -267,11 +267,11 @@
                 android:id="@+id/btnAA"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="4dp"
                 android:layout_weight="1"
-                android:text="AC"
                 android:backgroundTint="#313131"
-                android:textColor="#FFFFFF"
-                android:layout_margin="4dp"/>
+                android:text="+/-"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/btn0"
